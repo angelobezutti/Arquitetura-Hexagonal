@@ -1,2 +1,5 @@
-# Guia-Arquitetura-Hexagonal
-Guia destinado ao aprendizado e entendimento da arquitetura hexagonal
+# Arquitetura Hexagonal
+Também conhecida como "Ports and Adapters", a arquitetura hexagonal é um padrão para desenvolvimento de softwares
+
+A idéia da arquitetura hexagonal é podermos isolar toda a nossa regra de negócio, a camada de dominio
+
