@@ -6,8 +6,8 @@ A idéia da arquitetura hexagonal é podermos isolar toda a nossa regra de negó
 # Imagens Ilustrativas
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Angelo-java" height="200" width="300" src="https://paulovich.net/static/hexagonal-1.png">
-  <img align="center" alt="Angelo-java" height="200" width="300" src="https://miro.medium.com/max/1400/1*yR4C1B-YfMh5zqpbHzTyag.png">
   <img align="center" alt="Angelo-java" height="200" width="300" src="https://static.packt-cdn.com/products/9781839211966/graphics/B15547_02_04.jpg">
+  <img align="center" alt="Angelo-java" height="200" width="300" src="https://miro.medium.com/max/1400/1*yR4C1B-YfMh5zqpbHzTyag.png">
 </div>
 
 # Application
